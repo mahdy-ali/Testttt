@@ -6,21 +6,21 @@
     "لینک_سایت": "https://google.com"
   },
   {
-    "عکس_سایت": "https://s3.uupload.ir/files/toolsiner/Images/%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B4%DB%B2%DB%B9_%DB%B1%DB%B4%DB%B2%DB%B4%DB%B2%DB%B0.jpg",
-    "عنوان_سایت": "2",
-    "متن_سایت": "2",
-    "لینک_سایت": "https://aparat.com"
+    "عکس_سایت_2": "https://s3.uupload.ir/files/toolsiner/Images/%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B4%DB%B2%DB%B9_%DB%B1%DB%B4%DB%B2%DB%B4%DB%B2%DB%B0.jpg",
+    "عنوان_سایت_2": "2",
+    "متن_سایت_2": "2",
+    "لینک_سایت_2": "https://aparat.com"
   },
   {
-    "عکس_سایت": "https://s3.uupload.ir/files/toolsiner/Images/%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B4%DB%B2%DB%B9_%DB%B1%DB%B4%DB%B2%DB%B4%DB%B2%DB%B0.jpg",
-    "عنوان_سایت": "3",
-    "متن_سایت": "3",
-    "لینک_سایت": "https://amazon.com"
+    "عکس_سایت_3": "https://s3.uupload.ir/files/toolsiner/Images/%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B4%DB%B2%DB%B9_%DB%B1%DB%B4%DB%B2%DB%B4%DB%B2%DB%B0.jpg",
+    "عنوان_سایت_3": "3",
+    "متن_سایت_3": "3",
+    "لینک_سایت_3": "https://amazon.com"
   },
   {
-    "عکس_سایت": "https://s3.uupload.ir/files/toolsiner/Images/%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B4%DB%B2%DB%B9_%DB%B1%DB%B4%DB%B2%DB%B4%DB%B2%DB%B0.jpg",
-    "عنوان_سایت": "4",
-    "متن_سایت": "4",
-    "لینک_سایت": "https://toolearn.com"
+    "عکس_سایت_4": "https://s3.uupload.ir/files/toolsiner/Images/%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B4%DB%B2%DB%B9_%DB%B1%DB%B4%DB%B2%DB%B4%DB%B2%DB%B0.jpg",
+    "عنوان_سایت_4": "4",
+    "متن_سایت_4": "4",
+    "لینک_سایت_4": "https://toolearn.com"
   }
 ]
